@@ -43,7 +43,8 @@ Enhance your listening experience with **Soundify's Audio Equalizer**. Now you c
 
 ## 📸 Screenshots
 
-> _(Add screenshots here for UI, Equalizer Interface, and other key features)_
+
+![image](https://github.com/user-attachments/assets/7aed91cd-cdf8-44a8-8d4c-76b8ea2a7c4f)
 
 ---
 
